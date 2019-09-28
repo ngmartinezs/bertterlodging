@@ -1,0 +1,32 @@
+Desarrollo Del Proyecto
+	Vision(Que Hacer)
+		Estructurar una inicitiva tecnologica que permita gestionar la reserva de hospedajes (Casas, Apartamentos) en el distrito capital en un primer alcance.
+		Establecer las caracteristicas minimas  a nivel de funcionalidades que este sistema de informacion deberia considerar en un primer MVP.	
+		Prototipar los diferentes servicios estimados a considerar dentro del MVP planteado.
+		Modelar los flujos de proceso considerados para dentro del sistema de informacion.
+		Priorizar tareas de prototipado y construccion de las diferentes funcionalidades con el proposito abordar una construccion iterativa y evolutiva del MVP.
+		
+	
+	Analisis (Quien)
+		Potenciales Consumidores
+			Producto orientado a propietarios de casas, fincas y apartamentos interesados en alquilar sus propiedades de manera temporal a grupos de turistas o personas en general que visitan el area metropolitana de bogota y su sabana.
+			Turistas que buscan pasar un numero reducido de dias en la ciudad de bogota o en la sabana de la capital, y busca rentar un apartamento, casa o fincas de una forma sencilla y sin generar un contrato formal.
+			Comercio en general que busque promociar servicios de restaurantes, experiencias(Parapente, Equitacion, Caminatas Ecologicas), bares entre otros que puedan ser de interes para los potenciales personas que accedan a efectuar una reserva.
+		
+		Categorizacion De Los Consumidores
+			
+
+0. Home De Servicios
+    0.0 Seccion de Login
+    0.1 Buscador A Donde Vas
+    0.2 Carrusel de destinos destacados
+    0.3 Seccion de Ofertas Destacadas
+    0.4 Cambio de Idioma(opcional)
+    0.5 Registrar Subscripcion(opcionales)
+    0.6 Footer Con Terminos y condiciones. etc..
+1. Patanlla sing in/login/logout implementado con redes sociales
+2. Patalla de Seleccion de Fechas y datos referentes al Servicios
+3. Pantalla de listado de opciones para el usuario
+    3. Ver mi Perfil
+    3.2 Ver mis reservas
+    3.3 Registrar Alojamientos (Opcional)
